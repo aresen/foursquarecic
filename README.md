@@ -1,6 +1,5 @@
 Foursquare Check-in Challenge - HackPrinceton 2013
 ==============
-<<<<<<< HEAD
 
 The following repository was created for foursquare to have challenges for those who check in with the foursquare service. The premise is that people can competitively check in, and see who gets the most points in these challenges that users make.
 
@@ -8,5 +7,3 @@ Idea: People use foursquare to check-in. With the dynamic web service, people ma
 
 Team members included Huy, Quentin, Aihoa, Kenneth, Raymond, and Dennis.
 Created during HackPrinceton 2013
-=======
->>>>>>> test1
